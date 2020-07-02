@@ -1,4 +1,4 @@
-# DCS-Omkneeboard
+# DCS-OmKneeBoard
 
 A personal project to collect select information pertaining to the weaponry and checklists for DCS aircraft various munitions formatted for VR
 
