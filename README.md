@@ -1,6 +1,6 @@
 # DCS-OmKneeBoard
 
-A personal project to collect select information pertaining to the weaponry and checklists for DCS aircraft various munitions formatted for VR
+A personal project to collect select information pertaining to the weaponry and checklists for DCS aircraft various munitions formatted for VR. The kneeboard notes I've chosen to include are not an exhaustive list of steps, but just the important steps to jog the memory because whatever I write wont be enough to beat the experience/repetition/tutorials.
 
 To install the pages copy the "Kneeboard" folder into the directory `C:\Users\{User}\SavedGames\DCS\`. In-game, the kneeboard pages shall appear after the official mod kneeboard pages.
 
